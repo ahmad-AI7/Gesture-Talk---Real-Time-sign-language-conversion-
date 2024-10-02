@@ -1,0 +1,2 @@
+# Gesture-Talk---Real-Time-sign-language-conversion-
+Gesture Talk is an AI-powered Android app that converts sign language gestures into text and speech using real-time hand tracking and machine learning. Designed for seamless communication, the app provides offline support and an intuitive interface. The project includes a trained model, dataset, APK, and Android source code for further development.
